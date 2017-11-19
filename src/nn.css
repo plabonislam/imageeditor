@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 10, 2017, 9:23:32 PM
+    Author     : plabon
+*/
+.root
+{
+     
+    -fx-background-color: #DDFFA4;
+
+}
+.combo-box .cell{
+    -fx-text-fill: blue;
+    -fx-font: 16px "Arial";
+}
+.button
+{
+   -fx-text-fill: blue;
+    -fx-font: 16px "Arial"; 
+}
+
+.text-input {
+    -fx-text-fill: -fx-text-inner-color;
+    -fx-font: 16px "Arial";
+
+}
